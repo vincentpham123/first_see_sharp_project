@@ -1,0 +1,4 @@
+/Users/vincentpham/Documents/c_sharp/module00/MyConsoleApp/obj/Debug/netcoreapp3.1/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vincentpham/Documents/c_sharp/module00/MyConsoleApp/obj/Debug/netcoreapp3.1/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/vincentpham/Documents/c_sharp/module00/MyConsoleApp/obj/Debug/netcoreapp3.1/MyConsoleApp.AssemblyInfo.cs
+/Users/vincentpham/Documents/c_sharp/module00/MyConsoleApp/obj/Debug/netcoreapp3.1/MyConsoleApp.csproj.CoreCompileInputs.cache

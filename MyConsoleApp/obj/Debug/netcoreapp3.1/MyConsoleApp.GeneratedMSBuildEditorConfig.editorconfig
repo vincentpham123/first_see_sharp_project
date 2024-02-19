@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MyConsoleApp
+build_property.ProjectDir = /Users/vincentpham/Documents/c_sharp/module00/MyConsoleApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
